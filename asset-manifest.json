@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Jared/static/css/main.f3d284f0.css",
+    "main.js": "/Jared/static/js/main.11ad6cdd.js",
+    "static/media/hamana.jpg": "/Jared/static/media/hamana.76f79d2b5013930544c3.jpg",
+    "index.html": "/Jared/index.html",
+    "main.f3d284f0.css.map": "/Jared/static/css/main.f3d284f0.css.map",
+    "main.11ad6cdd.js.map": "/Jared/static/js/main.11ad6cdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3d284f0.css",
+    "static/js/main.11ad6cdd.js"
+  ]
+}
